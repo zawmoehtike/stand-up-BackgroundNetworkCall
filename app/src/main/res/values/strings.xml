@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">stand-up</string>
+    <string name="notification_title">Noti Title</string>
+    <string name="notification_text">Noti Text Lorem</string>
+    <string name="alarm_off_toast">Alarm Off Toast</string>
+    <string name="alarm_on_toast">Alarm On Toast</string>
+    <string name="server_error">Server Error</string>
+    <string name="every_60_seconds_napp_will_made_network_call_s">\'\'Every 60 seconds,\napp will made network call\'\'\nStarted: %s</string>
+</resources>
